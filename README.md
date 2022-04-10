@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Yizuaz
 - 🌱 I know a little bit Python, HTML, C#, Node.js
 - 😀 Reach me
+- 
 Discord -
 
 YouTube -
