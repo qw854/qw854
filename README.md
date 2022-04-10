@@ -2,7 +2,9 @@
 - 🌱 I know a little bit Python, HTML, C#, Node.js
 - 😀 Reach me
 Discord -
+
 YouTube -
+
 Website -
 
 <!---
