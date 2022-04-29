@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Yizuaz
+- 👋 Hi, I’m @qw854
 - 🌱 I know a little bit Python, HTML, C#, Node.js
-- 😀 Reach me
 - 
+ 😀 Reach me
 Discord -
 
 YouTube -
